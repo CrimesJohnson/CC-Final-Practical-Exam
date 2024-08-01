@@ -28,6 +28,7 @@ Step 4
 
 
 Deployment and Configuration Steps
+
 First, go to Azure.Portal.com, and make sure you have an active subscription, free or paid. Your screen should display like this.
 ![image](https://github.com/user-attachments/assets/172e51da-fecd-4cbf-9f67-9233e42c1301)
 
