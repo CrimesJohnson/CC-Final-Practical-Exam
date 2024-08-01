@@ -22,5 +22,12 @@ Step 4
 
 
 Deployment and Configuration Steps
-First, go to Azure.Portal.com, and make sure you have ana ctive subscription, free or paid. Your screen should display like this
+First, go to Azure.Portal.com, and make sure you have an active subscription, free or paid. Your screen should display like this.
 ![image](https://github.com/user-attachments/assets/172e51da-fecd-4cbf-9f67-9233e42c1301)
+
+From here, click on the Resource Group tab, and create a new Resource Group to house your Virtual Machine and all relevant files.
+![image](https://github.com/user-attachments/assets/cd0f5052-aef8-4245-81f2-09bcdef6dd17)
+![image](https://github.com/user-attachments/assets/0e13e1c0-8ea0-4f44-87b5-2b28dea4bb9d)
+
+
+
