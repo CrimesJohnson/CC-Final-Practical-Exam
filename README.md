@@ -16,8 +16,11 @@ Windows 10 (21H2)
 
 High-Level Deployment and Configuration Steps
 Step 1 - Go to azure.portal.com
+
 Step 2 - 
+
 Step 3
+
 Step 4
 
 
