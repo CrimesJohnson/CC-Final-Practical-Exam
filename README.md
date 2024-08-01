@@ -1,4 +1,4 @@
-# CC-Final-Practical-Exam
+# Establishing a Virtual Machine using Azure
 Practical Final for the CC IT Certificate Course
 
 
