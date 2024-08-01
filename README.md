@@ -3,6 +3,7 @@ Practical Final for the CC IT Certificate Course
 
 
 Establishing a Virtual Machine in Microsoft Azure
+
 This tutorial outlines the creation and access of a Virtual Machine using Microsoft Azure Services
 
 
