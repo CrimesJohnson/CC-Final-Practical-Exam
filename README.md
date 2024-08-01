@@ -1,5 +1,5 @@
 # Establishing a Virtual Machine using Azure
-Practical Final for the CC IT Certificate Course
+Practical Final for the CC IT Certificate Course, by Dom Q.
 
 
 
