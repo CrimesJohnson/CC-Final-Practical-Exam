@@ -83,6 +83,7 @@ To log on to your now-created VM, find and copy the public IP address, which is 
 
 
 Once you have the IP address copied, go to your start menu and open Remote Desktop Connection. Here you will be asked to enter the public IP address from before, and once a connection is established, you will be asked to log in to the computer. Here is where you will use the username and password that you set up before.
+
 ![image](https://github.com/user-attachments/assets/ce5f00d1-b0cc-4de3-8c5f-b7e241f13f6e)
 ![image](https://github.com/user-attachments/assets/9af7962f-9f62-4aa4-96d2-f447ce557285)
 ![image](https://github.com/user-attachments/assets/e90e4dbb-2482-4c35-9105-f90c6e59aafa)
