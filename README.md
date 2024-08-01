@@ -20,11 +20,11 @@ Windows 10 (21H2)
 
 Step 1 - Go to azure.portal.com
 
-Step 2 - 
+Step 2 - Create Resource Group
 
-Step 3
+Step 3 - Create Virtual Machine
 
-Step 4
+Step 4 - Log in with created credentials
 
 
 ### Deployment and Configuration Steps
